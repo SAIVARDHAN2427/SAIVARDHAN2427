@@ -5,8 +5,8 @@
 **B.Tech CSE '25 @ KL University | Open to Full-Stack & SDE Roles (Immediate Joiner)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saivardhan2427)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thotasaivardhan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/SAIVARDHAN2427)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thotasaivardhan2427@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/SAIVARDHAN2427/developer-portfolio)
 
 ---
 
@@ -16,34 +16,47 @@
 
 ---
 
-## 🌟 Featured Engineering Architectures
+## 🌟 The 3-Tier Software Engineering Ecosystem
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Nexus AI Orchestrator</h3>
-      <p align="center"><b>Autonomous Multi-Agent Workflow Engine</b></p>
+    <td width="33%" valign="top">
+      <h3 align="center">⚡ Tier 3: Nexus AI Orchestrator</h3>
+      <p align="center"><b>Autonomous Multi-Agent DAG Engine</b></p>
       <ul>
         <li><b>Directed Acyclic Graph (DAG)</b> execution pipeline with topological sorting via Kahn's algorithm.</li>
-        <li><b>O(V+E) Cycle Detection</b> preventing task deadlocks with wave-based concurrent scheduling.</li>
-        <li><b>Autonomous Multi-Agent Catalog</b>: AST code review, OWASP security scans, and test synthesis.</li>
-        <li><b>Tech Stack</b>: Node.js, Express, TypeScript, Docker, CI/CD, React.</li>
+        <li><b>O(V+E) Cycle Detection</b> preventing deadlocks with wave-based concurrent scheduling.</li>
+        <li><b>Autonomous Multi-Agent Catalog</b>: AST code review, security scans, and test synthesis.</li>
+        <li><b>Tech</b>: Node.js, TypeScript, React, Docker, CI/CD.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/SAIVARDHAN2427/nexus-ai-orchestrator"><b>Explore Repository →</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌱 InvestaNest Core</h3>
-      <p align="center"><b>High-Throughput Fintech Ledger & Analytics</b></p>
+    <td width="33%" valign="top">
+      <h3 align="center">🌱 Tier 2: InvestaNest Core</h3>
+      <p align="center"><b>High-Throughput Fintech Ledger</b></p>
       <ul>
         <li><b>Double-Entry Accounting Engine</b>: Strict zero-sum balance rule (Sum Debits == Sum Credits).</li>
-        <li><b>ACID Concurrency</b>: Atomic balance transfers with overdraft protection and cryptographic audit trail.</li>
-        <li><b>Real-Time Financial Analytics</b>: Net Asset Value (NAV) & risk-adjusted Sharpe Ratio.</li>
-        <li><b>Tech Stack</b>: Node.js, Express, React, REST APIs, Docker, CI/CD.</li>
+        <li><b>ACID Concurrency</b>: Atomic balance transfers with cryptographic audit trail.</li>
+        <li><b>Real-Time Financial Analytics</b>: Net Asset Value (NAV) & Sharpe Ratio risk metrics.</li>
+        <li><b>Tech</b>: Node.js, Express, React, PostgreSQL, Docker.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/SAIVARDHAN2427/investanest-core"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h3 align="center">🖥️ Tier 1: Developer Portfolio</h3>
+      <p align="center"><b>Interactive Shell & Telemetry Portal</b></p>
+      <ul>
+        <li><b>Interactive Unix CLI Emulator</b> with command parser and history.</li>
+        <li><b>Live GitHub Telemetry API</b> syncing repositories and stats dynamically.</li>
+        <li><b>Direct ATS Resume Gateway</b> serving validated single-page PDF.</li>
+        <li><b>Tech</b>: Semantic HTML5, Vanilla CSS3, ES6+ JS, CI/CD.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/SAIVARDHAN2427/developer-portfolio"><b>Explore Repository →</b></a>
       </p>
     </td>
   </tr>
